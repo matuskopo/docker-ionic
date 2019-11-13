@@ -4,7 +4,7 @@
 
 Simply run
 ```
-docker run -it govargo/ionic sh
+docker run -it mojemeno123/docker-ionic sh
 ```
 
 Port fowarding and PersistentVolume
